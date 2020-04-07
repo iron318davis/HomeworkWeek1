@@ -59,6 +59,13 @@ p {
     background-size: cover;
     background-position: center;
     /* Added to test background scrolling */
+
+
+
+    /* ~~~~~~~~~~
+    I would commented this one out to revert it back to the original style of the page
+    along with my suggestion at the bottom of the HTML
+    ~~~~~~~~~~*/
     background-attachment: fixed;
 }
 
